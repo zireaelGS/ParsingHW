@@ -1,0 +1,96 @@
+{
+  "westerosFamily": [
+    {
+      "family": {
+        "characters": [
+          {
+            "character": {
+              "firstname": "Daenerys",
+              "aliases": [
+                "Dragonmother",
+                "Dani"
+              ],
+              "titles": [
+                "Queen of Meereen",
+                "Mother of Dragon",
+                "Khaleesi of the Great Grass Sea",
+                "The Unburnt",
+                "Breaker of Chains"
+              ],
+              "ruler": "This is the head of the kingdom",
+              "characterID": "001",
+              "age": "22 y.o."
+            }
+          },
+          {
+            "character": {
+              "firstname": "Rhaegar",
+              "aliases": [
+                "Dragonmother",
+                "Dani"
+              ],
+              "titles": [
+                "Queen of Meereen",
+                "Mother of Dragon",
+                "Khaleesi of the Great Grass Sea",
+                "The Unburnt",
+                "Breaker of Chains"
+              ],
+              "ruler": "001",
+              "characterID": "002",
+              "age": "38 y.o."
+            }
+          }
+        ],
+        "nameOfTheHouse": "Targaryen",
+        "idOfTheHouse": "1"
+      }
+    },
+    {
+      "family": {
+        "characters": [
+          {
+            "character": {
+              "firstname": "John",
+              "aliases": [
+                "Dragonmother",
+                "Dani"
+              ],
+              "titles": [
+                "Queen of Meereen",
+                "Mother of Dragon",
+                "Khaleesi of the Great Grass Sea",
+                "The Unburnt",
+                "Breaker of Chains"
+              ],
+              "ruler": "It is a head of the north",
+              "characterID": "003",
+              "age": "22 y.o."
+            }
+          },
+          {
+            "character": {
+              "firstname": "Arya",
+              "aliases": [
+                "Dragonmother",
+                "Dani"
+              ],
+              "titles": [
+                "Queen of Meereen",
+                "Mother of Dragon",
+                "Khaleesi of the Great Grass Sea",
+                "The Unburnt",
+                "Breaker of Chains"
+              ],
+              "ruler": "003",
+              "characterID": "004",
+              "age": "17 y.o."
+            }
+          }
+        ],
+        "nameOfTheHouse": "Stark",
+        "idOfTheHouse": "2"
+      }
+    }
+  ]
+}

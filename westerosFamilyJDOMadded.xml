@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<westerosFamily>
+  <family idOfTheHouse="1" nameOfTheHouse="Targaryen">
+    <character characterID="001">
+      <firstname>Daenerys</firstname>
+      <age>22 y.o.</age>
+      <titles>
+        <title>Queen of Meereen</title>
+        <title>Mother of Dragons</title>
+        <title>Khaleesi of the Great Grass Sea</title>
+        <title>The Unburnt</title>
+        <title>Breaker of Chains</title>
+      </titles>
+      <aliases>
+        <alias>Dragonmother</alias>
+        <alias>Dani</alias>
+      </aliases>
+      <ruler>This is the head of the kingdom</ruler>
+    </character>
+    <character characterID="002">
+      <firstname>Rhaegar</firstname>
+      <age>38 y.o.</age>
+      <titles>
+        <title>Last Dragon</title>
+        <title>Prince dragon</title>
+      </titles>
+      <aliases>
+        <alias>Silver prince</alias>
+      </aliases>
+      <ruler>001</ruler>
+    </character>
+  </family>
+  <family idOfTheHouse="2" nameOfTheHouse="Stark">
+    <character characterID="003">
+      <firstname>John</firstname>
+      <age>22 y.o.</age>
+      <titles>
+        <title>King in the North</title>
+        <title>Warden of the North</title>
+      </titles>
+      <aliases>
+        <alias>Lord Snow</alias>
+        <alias>The Bastard of Winterfell</alias>
+      </aliases>
+      <ruler>It is a head of the north</ruler>
+    </character>
+    <character characterID="004">
+      <firstname>Arya</firstname>
+      <age>17 y.o.</age>
+      <titles>
+        <title>Princess</title>
+      </titles>
+      <aliases>
+        <alias>Faceless</alias>
+        <alias>Arry</alias>
+        <alias>Stickboy</alias>
+      </aliases>
+      <ruler>003</ruler>
+    </character>
+  </family>
+  <family idOfTheHouse="3" nameOfTheHouse="Lannister">
+    <character characterID="005">
+      <firstname>Tyrion</firstname>
+      <age>39 y.o.</age>
+      <titles>
+        <title>Hand of the King</title>
+        <title>Master of Coin</title>
+        <title>Lord of Casterly Rock</title>
+        <title>Hand of the Queen</title>
+      </titles>
+      <aliases>
+        <alias>The Imp</alias>
+        <alias>The Halfman</alias>
+        <alias>Yollo</alias>
+        <alias>Hugor Hill</alias>
+      </aliases>
+      <ruler>Hah, he is on his own mind, so he is his own ruler</ruler>
+    </character>
+  </family>
+</westerosFamily>
